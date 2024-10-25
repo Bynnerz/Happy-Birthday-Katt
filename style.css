@@ -1,0 +1,41 @@
+
+.galeria{
+
+    display: flex;
+    justify-content: center;
+
+    .img-1 {
+
+        height: 580px;
+        margin-top: 1px;
+        margin: 0 10px;
+      
+    }
+    
+    .img-2 {
+
+       height: 240px;
+       margin-top: 270px;
+       margin: 30 10px;
+       
+    }
+    
+    .img-3 {
+
+        height: 300px;
+        margin-top: 150px;
+        margin: 30 10 px;
+        border-radius: 25px;
+        
+    }
+}
+
+.Reproductor {
+
+    margin-left: 500px;
+    
+}
+
+
+
+
