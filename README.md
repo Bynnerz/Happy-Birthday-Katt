@@ -30,7 +30,7 @@
 		    opacity: .4;
 		}
 	</style>
-	<link rel="stylesheet" href="style.css"
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<!--div class="particula" data-velocidad-y="0" data-velocidad-x="0" data-padre="true" /-->
