@@ -1,7 +1,7 @@
 
 <html>
 <head>
-	<title>Fuegos artificiales</title>
+	<title>Happy Birthday/title>
 
 	<style type="text/css">
 		.particula {
