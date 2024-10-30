@@ -55,6 +55,7 @@
 </div>
 	
 <script src="index.js"></script>
+<div>
 .galeria{
 
     display: flex;
@@ -91,7 +92,7 @@
     margin-left: 500px;
     
 }
-			
+</div>			
 
 
 </body>
